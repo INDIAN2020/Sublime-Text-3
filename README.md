@@ -35,3 +35,7 @@ My favorite sublime text 3 settings
 Install Sublime text 3, open it  
 Sublime Text -> Preferences ->Browse Packages...  
 Clone this to your opened folder and replace
+
+## Shortcuts
+Emmet:  
+<kbd>super</kbd>+<kbd>alt</kbd>+<kbd>right</kbd>
