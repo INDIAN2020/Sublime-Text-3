@@ -38,7 +38,7 @@ Clone this to your opened folder and replace
 
 ## My Custom Shortcuts
 |Description|Shortcuts(Mac)|Shortcuts(windows)|
-| ---|---|
+| --- | --- | --- |
 |Next tab|<kbd>⌃</kbd> + <kbd>⇥</kbd>|<kbd>ctrl</kbd> + <kbd>tab</kbd>|
 |Prev tab|<kbd>⌃</kbd> + <kbd>⇧</kbd> + <kbd>⇥</kbd>|<kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>tab</kbd>|
 |Toggle sidebar|<kbd>F3</kbd>|
