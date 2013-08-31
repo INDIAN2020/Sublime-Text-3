@@ -41,7 +41,7 @@ Clone this to your opened folder and replace
 | --- | --- | --- |
 |Next tab|<kbd>⌃</kbd> + <kbd>⇥</kbd>|<kbd>ctrl</kbd> + <kbd>tab</kbd>|
 |Prev tab|<kbd>⌃</kbd> + <kbd>⇧</kbd> + <kbd>⇥</kbd>|<kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>tab</kbd>|
-|Toggle sidebar|<kbd>F3</kbd>|
+|Toggle sidebar|<kbd>F3</kbd>| <kbd>F3</kbd>|
 |Set layout leftside more|<kbd>⌘</kbd> + <kbd>⌥</kbd> + <kbd>←</kbd>|<kbd>win</kbd> + <kbd>alt</kbd> + <kbd>left</kbd>|
 |Set layout rightside more|<kbd>⌘</kbd> + <kbd>⌥</kbd> + <kbd>→</kbd>|<kbd>win</kbd> + <kbd>alt</kbd> + <kbd>right</kbd>|
 |Change quotes|<kbd>⌃</kbd> + <kbd>⇧</kbd> + <kbd>'</kbd>|<kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>'</kbd>|
