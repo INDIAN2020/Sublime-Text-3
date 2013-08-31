@@ -37,12 +37,14 @@ Sublime Text -> Preferences ->Browse Packages...
 Clone this to your opened folder and replace
 
 ## My Custom Shortcuts
-Next tab: <kbd>⌃</kbd> + <kbd>⇥</kbd>   /   <kbd>ctrl</kbd> + <kbd>tab</kbd>  
-Prev tab: <kbd>⌃</kbd> + <kbd>⇧</kbd> + <kbd>⇥</kbd>   /   <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>tab</kbd>  
-Toggle sidebar: <kbd>F3</kbd>  
-Set layout leftside more: <kbd>⌘</kbd> + <kbd>⌥</kbd> + <kbd>←</kbd>   /   <kbd>win</kbd> + <kbd>alt</kbd> + <kbd>left</kbd>  
-Set layout rightside more: <kbd>⌘</kbd> + <kbd>⌥</kbd> + <kbd>→</kbd>   /   <kbd>win</kbd> + <kbd>alt</kbd> + <kbd>right</kbd>  
-Change quotes: <kbd>⌃</kbd> + <kbd>⇧</kbd> + <kbd>'</kbd>   /   <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>'</kbd>  
-Close all files: <kbd>⌃</kbd> + <kbd>⇧</kbd> + <kbd>w</kbd>   /   <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>w</kbd>  
-Go to left bracket: <kbd>⌥</kbd> + <kbd>↑</kbd>   /   <kbd>alt</kbd> + <kbd>up</kbd>  
-Go to right bracket: <kbd>⌥</kbd> + <kbd>↓</kbd>   /   <kbd>alt</kbd> + <kbd>down</kbd>  
+|Description|Shortcuts|
+| ---|---:|
+|Next tab|<kbd>⌃</kbd> + <kbd>⇥</kbd>   /   <kbd>ctrl</kbd> + <kbd>tab</kbd>|
+|Prev tab|<kbd>⌃</kbd> + <kbd>⇧</kbd> + <kbd>⇥</kbd>   /   <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>tab</kbd>|
+|Toggle sidebar|<kbd>F3</kbd>|
+|Set layout leftside more|<kbd>⌘</kbd> + <kbd>⌥</kbd> + <kbd>←</kbd>   /   <kbd>win</kbd> + <kbd>alt</kbd> + <kbd>left</kbd>|
+|Set layout rightside more|<kbd>⌘</kbd> + <kbd>⌥</kbd> + <kbd>→</kbd>   /   <kbd>win</kbd> + <kbd>alt</kbd> + <kbd>right</kbd>|
+|Change quotes|<kbd>⌃</kbd> + <kbd>⇧</kbd> + <kbd>'</kbd>   /   <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>'</kbd>|
+|Close all files|<kbd>⌃</kbd> + <kbd>⇧</kbd> + <kbd>w</kbd>   /   <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>w</kbd>|
+|Go to left bracket|<kbd>⌥</kbd> + <kbd>↑</kbd>   /   <kbd>alt</kbd> + <kbd>up</kbd>|
+|Go to right bracket|<kbd>⌥</kbd> + <kbd>↓</kbd>   /   <kbd>alt</kbd> + <kbd>down</kbd>|
