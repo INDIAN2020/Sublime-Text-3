@@ -36,6 +36,13 @@ Install Sublime text 3, open it
 Sublime Text -> Preferences ->Browse Packages...  
 Clone this to your opened folder and replace
 
-## Shortcuts
-Emmet:  
-<kbd>super</kbd>+<kbd>alt</kbd>+<kbd>right</kbd>
+## My Custom Shortcuts
+Next tab: <kbd>ctrl</kbd>+<kbd>tab</kbd>  
+Prev tab: <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>tab</kbd>  
+Toggle sidebar: <kbd>F3</kbd>  
+Set layout leftside more: <kbd>super</kbd> + <kbd>alt</kbd> + <kbd>left</kbd>  
+Set layout rightside more: <kbd>super</kbd> + <kbd>alt</kbd> + <kbd>right</kbd>  
+Change quotes: <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>'</kbd>  
+Close all files: <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>w</kbd>  
+Go to left bracket: <kbd>alt</kbd>+<kbd>up</kbd>  
+Go to right bracket: <kbd>alt</kbd>+<kbd>down</kbd>
