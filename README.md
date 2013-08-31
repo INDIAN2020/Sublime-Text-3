@@ -32,7 +32,7 @@ My favorite sublime text 3 settings
 - YUI Compressor
 
 ## Usage
-Install Sublime text 3, open it  
+>Install Sublime text 3, open it  
 Sublime Text -> Preferences ->Browse Packages...  
 Clone this to your opened folder and replace
 
